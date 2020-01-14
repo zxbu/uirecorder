@@ -1,3 +1,4 @@
+// {$recordId}
 const $ = require('jquery');
 const fs = require('fs');
 const path = require('path');

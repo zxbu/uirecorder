@@ -45,7 +45,7 @@
 
     "begin_recorder": "开始录制数据，录制Id：%s",
     "begin_recorder_failed": "开始录制数据调用失败，错误码：%s",
-    "end_recorder": "结束录制数据",
+    "end_recorder": "结束录制数据，录制Id：%s",
     "end_recorder_failed": "结束录制数据调用失败，错误码：%s",
 
 
