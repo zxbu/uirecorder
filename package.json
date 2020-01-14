@@ -1,6 +1,6 @@
 {
   "name": "uirecorder",
-  "version": "3.1.8-yjp",
+  "version": "4.1.8-yjp",
   "description": "Tool for record ui test case",
   "main": "./index",
   "bin": {
@@ -23,7 +23,8 @@
     "os-locale": "1.4.0",
     "resemblejs-node": "1.0.0",
     "semver": "5.3.0",
-    "websocket": "1.0.22"
+    "websocket": "1.0.22",
+      "sync-request": "^6.1.0"
   },
   "devDependencies": {
     "git-contributor": "^1.0.8"

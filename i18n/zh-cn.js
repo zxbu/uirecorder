@@ -43,10 +43,10 @@
     "exec_succeed": " 执行成功",
     "exec_failed": " 执行失败",
 
-    "begin_recorder": " 开始请求数据录制，录制Id：%s",
-    "begin_recorder_failed": " 开始请求数据录制调用失败，错误码：%s",
-    "end_recorder": " 结束请求数据录制成功",
-    "end_recorder_failed": " 结束请求数据录制调用失败，错误码：%s",
+    "begin_recorder": "开始录制数据，录制Id：%s",
+    "begin_recorder_failed": "开始录制数据调用失败，错误码：%s",
+    "end_recorder": "结束录制数据",
+    "end_recorder_failed": "结束录制数据调用失败，错误码：%s",
 
 
     "chrome": {
