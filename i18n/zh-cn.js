@@ -42,6 +42,13 @@
     "mobile_open_failed": "手机打开失败，请检查macaca是否配置正确？",
     "exec_succeed": " 执行成功",
     "exec_failed": " 执行失败",
+
+    "begin_recorder": " 开始请求数据录制，录制Id：%s",
+    "begin_recorder_failed": " 开始请求数据录制调用失败，错误码：%s",
+    "end_recorder": " 结束请求数据录制成功",
+    "end_recorder_failed": " 结束请求数据录制调用失败，错误码：%s",
+
+
     "chrome": {
         "jump_placeholder": "请输入需要测试的URL 或 脚本文件名！",
         "jump_alert": "请输入正确的URL 或 脚本文件名！",
